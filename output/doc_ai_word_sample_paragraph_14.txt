@@ -1,0 +1,1 @@
+Data privacy: Data science involves collecting, storing, and sharing data, which can raise ethical and legal issues regarding data privacy and security. Data privacy can be compromised by unauthorized access, misuse, or leakage of data, which can harm the rights and interests of data owners, users, or subjects.

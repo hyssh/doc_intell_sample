@@ -1,0 +1,1 @@
+· Data quality: Data science relies on the quality and availability of data, which can be affected by factors such as noise, missing values, outliers, or biases. Data quality can impact the accuracy, reliability, and validity of data analysis and solutions.

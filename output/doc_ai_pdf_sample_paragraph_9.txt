@@ -1,0 +1,1 @@
+· Natural language processing: Data science can be used to process and understand natural language, such as speech, text, or audio. For example, data science can be used to build chatbots, voice assistants, translators, or sentiment analyzers.

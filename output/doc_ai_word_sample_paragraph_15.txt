@@ -1,0 +1,1 @@
+Data complexity: Data science deals with large, diverse, and complex data, which can pose challenges for data processing, analysis, and interpretation. Data complexity can require advanced techniques, tools, and skills, as well as computational and storage resources.

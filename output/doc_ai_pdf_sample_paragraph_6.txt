@@ -1,0 +1,1 @@
+· Recommendation systems: Data science can be used to analyze user behavior, preferences, and feedback, and provide personalized recommendations for products, services, or content. For instance, Netflix uses data science to suggest movies and shows to its users based on their viewing history and ratings.

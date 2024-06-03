@@ -1,0 +1,1 @@
+· Healthcare: Data science can be used to improve healthcare outcomes, diagnosis, treatment, and prevention. For example, data science can be used to analyze medical records, images, sensors, and genomics, and provide insights for doctors, patients, and researchers.

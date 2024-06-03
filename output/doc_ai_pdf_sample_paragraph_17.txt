@@ -1,0 +1,1 @@
+· Data communication: Data science aims to communicate data and insights to various stakeholders, such as decision-makers, customers, or the public. Data communication can be challenging due to the gap between data and domain knowledge, the diversity of audiences and contexts, and the need for clear and effective visualization and storytelling.

@@ -1,0 +1,1 @@
+Fraud detection: Data science can be used to detect and prevent fraudulent transactions, activities, or behaviors. For example, credit card companies use data science to identify and flag suspicious transactions based on patterns, anomalies, or rules.
